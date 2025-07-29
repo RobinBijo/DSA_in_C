@@ -1,2 +1,2 @@
-# polish_strings_c
-Tools to convert Infix to Postfix,Prefix and respective evaluators
+# DSA IN C
+All DSA concepts and their applications coded in C
