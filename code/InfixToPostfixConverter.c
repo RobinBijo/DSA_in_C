@@ -27,7 +27,7 @@ int main() {
     int ptop = -1;
     char infix[] = "(a+(b-c)*d)";
     
-    int infix_size = strlen(infix);//Referenced from Google
+    int infix_size = strlen(infix);
     char postfix[100];
     char stack[100];
     
